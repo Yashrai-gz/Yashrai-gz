@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently student in CU<br>🌱I'm interested in web development<br>📖Learning React.js <br>💬 Ask me about React.js, JS<br>⚡ Let me tell you a secrete - "One Piece is real."<br>
+🔭 I’m currently a student in CU<br>🌱I'm interested in web development<br>📖Learning React.js <br>💬 Ask me about React.js, JS<br>⚡ Let me tell you a secrete - "One Piece is real."<br>
 
 
 ## 🌐 Socials:
